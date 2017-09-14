@@ -1,0 +1,15 @@
+C:\Applications\Xamarin Projects\MyToDoList\MyToDoList\MyToDoList\bin\Debug\MyToDoList.dll
+C:\Applications\Xamarin Projects\MyToDoList\MyToDoList\MyToDoList\bin\Debug\MyToDoList.pdb
+C:\Applications\Xamarin Projects\MyToDoList\MyToDoList\MyToDoList\bin\Debug\Xamarin.Forms.Core.dll
+C:\Applications\Xamarin Projects\MyToDoList\MyToDoList\MyToDoList\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Applications\Xamarin Projects\MyToDoList\MyToDoList\MyToDoList\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Applications\Xamarin Projects\MyToDoList\MyToDoList\MyToDoList\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Applications\Xamarin Projects\MyToDoList\MyToDoList\MyToDoList\bin\Debug\Xamarin.Forms.Core.xml
+C:\Applications\Xamarin Projects\MyToDoList\MyToDoList\MyToDoList\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Applications\Xamarin Projects\MyToDoList\MyToDoList\MyToDoList\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Applications\Xamarin Projects\MyToDoList\MyToDoList\MyToDoList\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Applications\Xamarin Projects\MyToDoList\MyToDoList\MyToDoList\obj\Debug\MyToDoList.csprojResolveAssemblyReference.cache
+C:\Applications\Xamarin Projects\MyToDoList\MyToDoList\MyToDoList\obj\Debug\MyToDoList.MainPage.xaml.g.cs
+C:\Applications\Xamarin Projects\MyToDoList\MyToDoList\MyToDoList\obj\Debug\MyToDoList.App.xaml.g.cs
+C:\Applications\Xamarin Projects\MyToDoList\MyToDoList\MyToDoList\obj\Debug\MyToDoList.dll
+C:\Applications\Xamarin Projects\MyToDoList\MyToDoList\MyToDoList\obj\Debug\MyToDoList.pdb
